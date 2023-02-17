@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">RWQMSApp</string>
+
+    <string name="message">
+
+        THIS IS A TRIAL POPUP ONLY
+        TRUST ME BRO
+        REALLY BRO
+
+    </string>
+
+    <string name="main_page_message">
+
+        Real-time Aqualert Monitoring helps you monitor
+        water status. We provide data results, analytics
+        and other information you need, pertaining to the
+                    quality of your waters.
+
+    </string>
+
+    <string name="discover_text"> Learn Water Quality Information
+    </string>
+
+    <string name="topic_text"> Topics that can enlighten your
+                               comprehension of Water Quality
+                               Information
+    </string>
+
+    <string name="who_paragraph">
+                               <n><b>What is WHo?</b></n>
+
+
+\n\n The World Health Organization is a United Nations specialized agency in charge of international public health. The WHO Constitution states that its main goal is "the attainment of the highest possible level of health by all peoples." \n\n
+
+(Ang World Health Organization ay isang espesyal na ahensya ng United Nations na responsable para sa internasyonal na pampublikong kalusugan. Isinasaad ng Konstitusyon ng WHO ang pangunahing layunin nito bilang "ang pagkamit ng lahat ng mga tao ng pinakamataas na posibleng antas ng kalusugan".)
+    </string>
+
+
+    <string name="pollution_paragraph">
+
+<n><b>Water Pollution</b></n>
+
+\n\n Water pollution is the contamination of bodies of water, usually as a result of human activity, that has a negative impact on their uses. Lakes, rivers, oceans, aquifers, reservoirs, and groundwater are all examples of water bodies. Water pollution occurs when contaminants are introduced into these bodies of water. \n\n
+
+(Ang polusyon sa tubig ay ang kontaminasyon ng mga anyong tubig, kadalasan bilang resulta ng mga aktibidad ng tao, kaya negatibong nakakaapekto sa paggamit nito. Kabilang sa mga anyong tubig ang mga lawa, ilog, karagatan, aquifers, reservoir at tubig sa lupa. Ang polusyon sa tubig ay nagreresulta kapag ang mga kontaminant ay ipinapasok sa mga anyong tubig na ito.)
+
+    </string>
+
+
+    <string name="disease_paragraph">
+
+        <n><b>Waterborne diseases? (Side effect)</b></n>
+
+        \n\n Typhoid fever, cholera, leptospirosis, and hepatitis A are examples. Typhoid fever, also known as enteric fever or simply typhoid, is an infectious disease. Salmonella typhi bacteria causes it. It spreads through contaminated food and water, as well as close contact with an infected person. \n\n
+
+        (Kabilang dito ang typhoid fever, cholera, leptospirosis, at hepatitis A. Ang typhoid fever ay isang nakakahawang sakit na kilala rin bilang enteric fever o typhoid lang. Ito ay sanhi ng bacteria na kilala bilang Salmonella typhi. Kumakalat ito sa pamamagitan ng kontaminadong pagkain at tubig o sa pamamagitan ng malapit na pakikipag-ugnayan sa isang taong nahawaan.) \n\n
+
+       <n><b>Waterborne diseases</b></n>
+
+<n><b>\n\n Diarrhea</b></n>
+
+\n\n (Pagtatae , matubig at posibleng mas madalas na pagdumi  ay isa sa mga karaniwang problema nito.) \n\n
+
+<n><b>Cholera</b></n>
+
+\n\n (ay isang talamak na impeksyon sa pagtatae na dulot ng paglunok ng kontaminadong pagkain o tubig.) \n\n
+
+<n><b>Typhoid</b></n>
+
+\n\n (Ang mga taong may mga sakit na ito ay karaniwang may lagnat na maaaring kasing taas ng 103 hanggang 104°F (39 hanggang 40°C). Maaari din silang magkaroon ng kahinaan, pananakit ng tiyan, sakit ng ulo, pagtatae o paninigas ng dumi, ubo, at pagkawala ng gana.) \n\n
+
+<n><b>Amoebiasis</b></n>
+
+\n\n (Ang Amebiasis ay isang sakit sa bituka na dulot ng isang microscopic o maliit na parasito na tinatawag na Entamoeba histolytica, na kumakalat sa pamamagitan ng dumi ng tao. Kadalasan ay walang sintomas, ngunit, minsan nagdudulot ito ng pagtatae, pagduduwal o pakiramdam ng sakit sa tiyan, at pagbaba ng timbang.) \n\n
+
+<n><b>Hepatitis A</b></n>
+
+\n\n (Ang Hepatitis A ay isang impeksyon sa atay na maiiwasan sa bakuna na sanhi ng hepatitis A virus (HAV). Ang HAV ay matatagpuan sa dumi at dugo ng mga taong nahawaan.)
+
+    </string>
+
+
+    <string name="drink_paragraph">
+
+    <n><b>What is the importance of drinking water?</b></n>
+
+
+ \n\n It is critical for your health to drink enough water every day. Drinking water can help prevent dehydration, a condition that can cause foggy thinking, mood swings, overheating, constipation, and kidney stones. \n\n
+
+(Ang pagkuha ng sapat na tubig araw-araw ay mahalaga para sa iyong kalusugan. Maaaring maiwasan ng pag-inom ng tubig ang dehydration, isang kondisyon na maaaring magdulot ng hindi malinaw na pag-iisip, magresulta sa pagbabago ng mood, maging sanhi ng sobrang init ng iyong katawan, at humantong sa constipation at mga bato sa bato.)
+
+
+        </string>
+
+</resources>
